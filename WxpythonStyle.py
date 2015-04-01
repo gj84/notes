@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 #Source http://hasenj.wordpress.com/2009/04/14/making-a-fancy-window-in-wxpython/
 
 
