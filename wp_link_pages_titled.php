@@ -5,7 +5,7 @@
 //more post
 //<!--nextpage--><!--pagetitle: Title two -->
 //.....
-//That way we get pagination links ... First Title one Title two
+//A way to get pagination links ... First Title one Title two
 //http://wordpress.stackexchange.com/questions/11578/custom-page-links-for-paginated-posts-wp-link-pages-nextpage-quicktag
 
 function wp_link_pages_titled($args = '') {
