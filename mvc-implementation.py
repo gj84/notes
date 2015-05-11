@@ -34,7 +34,7 @@ class Subject(object):
 
     def notify(self):
         for obs in self.observers:
-            obs.notify("the object was an event")
+            obs.notify("An event has ocurred")
 
 class Model(Subject):
     def __init__(self, name, initial_word):
