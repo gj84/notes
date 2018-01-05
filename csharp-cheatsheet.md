@@ -59,7 +59,7 @@ The postfix example assigns the value of x to y, and then increments x.
 `>=       ==        !=`
 
 
-### IF ELSE
+### If Else
 ```csharp
 if (x > y) 
       x -= y;
@@ -101,7 +101,7 @@ While
 ```
 -----------------------------------------
 
-### do while
+### Do while
 
 ```csharp
 int x = 42;
@@ -125,7 +125,7 @@ for ( ; x > 0 ; )           increment x-=20;
 ```
 ------------------------------------------
 
-### BREAK AND CONTINUE
+### Break and Continue
 ```csharp
 int num = 0;
 while (num < 20)
@@ -148,7 +148,7 @@ for (int i = 0; i < 10; i++) {
 ```
 ------------------------------------------------
 
-### LOGICAL OPERATORS
+### Logical Operators
 | code | meaning | 
 |------|---------|
 | `&&` | and     |
@@ -157,7 +157,7 @@ for (int i = 0; i < 10; i++) {
 
 ------------------------------------------------
 
-### CONDITIONAL OPERATOR 
+### Conditional Operator 
 
 `msg = (age >= 18) ? "Welcome" : "Sorry";`
 
@@ -257,7 +257,7 @@ static void Main(string[] args)
 {
   int a, b;
   GetValues(out a, out b);             // Transfer data out of the method
-                                                    //Now a equals 5, b equals 42
+                                       //Now a equals 5, b equals 42
 }
 ```
 ----------------------------------------------------------------
